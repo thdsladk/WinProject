@@ -1,0 +1,2 @@
+C:\WinApi_Project\MyProject01\Debug\MyProject01.exe
+C:\WinApi_Project\MyProject01\Debug\MyProject01.pdb
